@@ -8,4 +8,5 @@ Task7_backend.js
 .env*
 .flaskenv*
 !.env.project
+!.env.vaultgit
 !.env.vault
